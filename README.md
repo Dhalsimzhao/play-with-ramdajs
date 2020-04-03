@@ -1,2 +1,3 @@
 # play-with-ramdajs
-learning fp
+
+function first, data last
